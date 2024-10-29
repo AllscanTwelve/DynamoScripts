@@ -2,7 +2,7 @@ Welcome to AllscanTwelve GitHub.
 
 Here you can find the collection of Dynamo Scripts that I've developed, and you can download them free of charge.
 
-Contect Information:
+Contact Information:
 
                   email_1 : allan.cantos1012@yahoo.com
 
