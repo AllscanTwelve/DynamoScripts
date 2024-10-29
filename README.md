@@ -1,6 +1,6 @@
 Welcome to AllscanTwelve GitHub.
 
-Here you can find the collection of Dynamo Scripts that I developed, and you can download them free of charge.
+Here you can find the collection of Dynamo Scripts that I've developed, and you can download them free of charge.
 
 Contect Information:
 
